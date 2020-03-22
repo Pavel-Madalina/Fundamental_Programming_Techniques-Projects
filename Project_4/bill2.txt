@@ -1,0 +1,8 @@
+Bill for order nr.2
+Date : Thu May 16 18:43:19 EEST 2019
+
+Table : 2
+Menu Item : BaseProduct [id=5, name=ceai fructe de padure, price=5.0]
+Menu Item : BaseProduct [id=4, name=Pepsi, price=6.0]
+
+TOTAL PRICE : 11.0

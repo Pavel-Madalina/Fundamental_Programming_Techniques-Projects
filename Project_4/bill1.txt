@@ -1,0 +1,16 @@
+Bill for order nr.1
+Date : Thu May 16 18:42:50 EEST 2019
+
+Table : 1
+Menu Item : CompositeProduct [id=8, name=Meniu Crispy, price=17.5, 
+      product =BaseProduct [id=1, name=cartofi prajiti, price=5.0],
+      product =BaseProduct [id=2, name=crispy, price=10.0],
+      product =BaseProduct [id=3, name=salata de varza, price=2.5]]
+Menu Item : CompositeProduct [id=9, name=Meniu Cascaval, price=15.5, 
+      product =BaseProduct [id=7, name=cartofi piure, price=6.0],
+      product =BaseProduct [id=6, name=cascaval pane, price=7.0],
+      product =BaseProduct [id=3, name=salata de varza, price=2.5]]
+Menu Item : BaseProduct [id=4, name=Pepsi, price=6.0]
+Menu Item : BaseProduct [id=5, name=ceai fructe de padure, price=5.0]
+
+TOTAL PRICE : 44.0
